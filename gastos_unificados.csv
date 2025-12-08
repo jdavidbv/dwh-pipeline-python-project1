@@ -1,0 +1,217 @@
+Concepto,Monto,Quincena,Mes,Tipo concepto
+Citi,8326.88,Q1,Ene,Ingreso
+Nu,0.0,Q1,Ene,Gasto
+Citi Q1,0.0,Q1,Ene,Gasto
+Renta,0.0,Q1,Ene,Gasto
+Internet,0.0,Q1,Ene,Gasto
+Gas,400.0,Q1,Ene,Gasto
+Gasto semanal,3000.0,Q1,Ene,Gasto
+Mecánico,1240.0,Q1,Ene,Gasto
+Coppel,365.0,Q1,Ene,Gasto
+Tanda,1000.0,Q1,Ene,Gasto
+Madre ,1750.0,Q1,Ene,Gasto
+Otros,2143.52,Q1,Ene,Gasto
+Resta,906.48,Q1,Ene,Gasto
+Dinero guardado,2113.0,Q2,Ene,Ingreso
+venta oax,2220.0,Q2,Ene,Ingreso
+venta combinada,2780.0,Q2,Ene,Ingreso
+Comidas,4000.0,Q2,Ene,Gasto
+Madre,1750.0,Q2,Ene,Gasto
+Renta,1000.0,Q2,Ene,Gasto
+Pago Citi,6553.0,Q2,Ene,Gasto
+Tanda,0.0,Q2,Ene,Gasto
+Coppel,365.0,Q2,Ene,Gasto
+Colcha gaby,40.0,Q2,Ene,Gasto
+Internet,450.0,Q2,Ene,Gasto
+Renta,1000.0,Q1,Feb,Gasto
+Mayoreo,1000.0,Q1,Feb,Gasto
+Semanas,2500.0,Q1,Feb,Gasto
+compras super,1000.0,Q1,Feb,Gasto
+Tarjeta Citi,1145.5,Q1,Feb,Gasto
+Tarjeta Un,584.0,Q1,Feb,Gasto
+Gas auto,500.0,Q1,Feb,Gasto
+Prestamo madre,1750.0,Q1,Feb,Gasto
+TOTAL GASTOS,7729.5,Q1,Feb,Gasto
+Ahorrado fisico,0.0,Q2,Feb,Ingreso
+Ahorrado banca,809.0,Q2,Feb,Ingreso
+Mayoreo,900.0,Q2,Feb,Gasto
+Semanas,3000.0,Q2,Feb,Gasto
+compras super,1000.0,Q2,Feb,Gasto
+Gas auto,0.0,Q2,Feb,Gasto
+Tarjeta nu,989.18,Q2,Feb,Gasto
+Tarjeta Citi,2798.26,Q2,Feb,Gasto
+Prestamo madre,1750.0,Q2,Feb,Gasto
+tanda gris,500.0,Q2,Feb,Gasto
+TOTAL GASTOS,10937.44,Q2,Feb,Gasto
+Ahorrado banca,0.0,Q1,Mar,Ingreso
+Mayoreo,900.0,Q1,Mar,Gasto
+Semanas,3700.0,Q1,Mar,Gasto
+compras super,1000.0,Q1,Mar,Gasto
+Tarjeta Citi,0.0,Q1,Mar,Gasto
+Tarjeta nu,989.18,Q1,Mar,Gasto
+Gas auto,500.0,Q1,Mar,Gasto
+Prestamo madre,1750.0,Q1,Mar,Gasto
+Puto carro,2000.0,Q1,Mar,Gasto
+TOTAL GASTOS,10839.18,Q1,Mar,Gasto
+Ahorrado banca,3500.0,Q2,Mar,Ingreso
+Mayoreo,1000.0,Q2,Mar,Gasto
+Semanas,4000.0,Q2,Mar,Gasto
+compras super,1000.0,Q2,Mar,Gasto
+Tarjeta Citi,3000.0,Q2,Mar,Gasto
+Tarjeta nu,1000.0,Q2,Mar,Gasto
+Gas auto,1000.0,Q2,Mar,Gasto
+Prestamo madre,1750.0,Q2,Mar,Gasto
+Llanta,500.0,Q2,Mar,Gasto
+TOTAL GASTO,13250.0,Q2,Mar,Gasto
+Ahorrado banca,2000.0,Q1,Abril,Ingreso
+Prestamo méxico Beto,312.0,Q1,Abril,Ingreso
+Prestamo méxico Chico,763.0,Q1,Abril,Ingreso
+Mayoreo,0.0,Q1,Abril,Gasto
+Semanas,3000.0,Q1,Abril,Gasto
+compras super,300.0,Q1,Abril,Gasto
+Prestamo madre,1750.0,Q1,Abril,Gasto
+Gas auto,1000.0,Q1,Abril,Gasto
+Coppel,1464.0,Q1,Abril,Gasto
+Tarjeta Citi,500.0,Q1,Abril,Gasto
+Tarjeta nu,2500.0,Q1,Abril,Gasto
+TOTAL GASTO,10514.0,Q1,Abril,Gasto
+AHORRO,4902.9,Q1,Abril,Gasto
+Ahorrado banca,1116.6,Q2,Abril,Ingreso
+Prestamo méxico Chico,763.0,Q2,Abril,Ingreso
+Prestamo boletos chico,2250.0,Q2,Abril,Ingreso
+Mayoreo,800.0,Q2,Abril,Gasto
+Semanas,4000.0,Q2,Abril,Gasto
+compras super,0.0,Q2,Abril,Gasto
+Prestamo madre,1750.0,Q2,Abril,Gasto
+Gas auto,1000.0,Q2,Abril,Gasto
+Coppel,486.0,Q2,Abril,Gasto
+Tarjeta Citi,1250.0,Q2,Abril,Gasto
+Tarjeta nu,0.0,Q2,Abril,Gasto
+Renta,1000.0,Q2,Abril,Gasto
+TOTAL GASTO,10286.0,Q2,Abril,Gasto
+AHORRO,2680.6,Q2,Abril,Gasto
+Ahorrado banca,0.0,Q1,May,Ingreso
+Semanas,4051.29,Q1,May,Gasto
+Prestamo madre,1750.0,Q1,May,Gasto
+Gas auto,1000.0,Q1,May,Gasto
+Renta,1500.0,Q1,May,Gasto
+Arreglos moto,1000.0,Q1,May,Gasto
+Guardería Dara,1000.0,Q1,May,Gasto
+TOTAL GASTO,10301.29,Q1,May,Gasto
+AHORRO,1548.71,Q1,May,Gasto
+Ahorrado banca,0.0,Q2,May,Ingreso
+Semanas,4000.0,Q2,May,Gasto
+Prestamo madre,1750.0,Q2,May,Gasto
+Gas auto,1000.0,Q2,May,Gasto
+Renta,0.0,Q2,May,Gasto
+Guardería Dara,0.0,Q2,May,Gasto
+TOTAL GASTO,6750.0,Q2,May,Gasto
+AHORRO,5100.0,Q2,May,Gasto
+Ahorrado banca,0.0,Q1,Jun,Ingreso
+Semanas,4000.0,Q1,Jun,Gasto
+Prestamo madre,1750.0,Q1,Jun,Gasto
+Gas auto,1200.0,Q1,Jun,Gasto
+Renta,0.0,Q1,Jun,Gasto
+Guardería Dara,1000.0,Q1,Jun,Gasto
+Tarjeta Citi,0.0,Q1,Jun,Gasto
+Tarjeta nu,0.0,Q1,Jun,Gasto
+Coppel,0.0,Q1,Jun,Gasto
+TOTAL GASTO,7950.0,Q1,Jun,Gasto
+AHORRO,3859.0,Q1,Jun,Gasto
+Ahorrado banca,0.0,Q2,Jun,Ingreso
+Semanas,4000.0,Q2,Jun,Gasto
+Prestamo madre,1750.0,Q2,Jun,Gasto
+Gas auto,700.0,Q2,Jun,Gasto
+Guardería Dara,2000.0,Q2,Jun,Gasto
+Internet,450.0,Q2,Jun,Gasto
+Reinscripción Dara,0.0,Q2,Jun,Gasto
+Tarjeta Citi,0.0,Q2,Jun,Gasto
+Tarjeta nu,0.0,Q2,Jun,Gasto
+Coppel,200.0,Q2,Jun,Gasto
+Gasto Gris CDMX,0.0,Q2,Jun,Gasto
+TOTAL GASTO,9100.0,Q2,Jun,Gasto
+AHORRO,2000.0,Q2,Jun,Gasto
+Ahorrado banca,0,Q1,Jul,Ingreso
+Semanas,4000,Q1,Jul,Gasto
+Prestamo madre,1750,Q1,Jul,Gasto
+Gas auto,1000,Q1,Jul,Gasto
+Guardería Dara,2175,Q1,Jul,Gasto
+Gas casa,500,Q1,Jul,Gasto
+Coppel,617,Q1,Jul,Gasto
+Hosting Lemus,1584.46,Q1,Jul,Gasto
+TDC Coppel,792,Q1,Jul,Gasto
+Las semanas de despensa no deben superar 900 que es lo que coopera Chicorita,Se compra hoy 14 y el 21,Q1,Jul,Gasto
+TOTAL GASTO,11626.46,Q1,Jul,Gasto
+AHORRO,122.050000000001,Q1,Jul,Gasto
+Semanas,2100.0,Q1,Ago,Gasto
+Prestamo madre,1800.0,Q1,Ago,Gasto
+Gas auto,1000.0,Q1,Ago,Gasto
+Guardería Dara,0.0,Q1,Ago,Gasto
+Gas casa,500.0,Q1,Ago,Gasto
+Abono coppel,0.0,Q1,Ago,Gasto
+Prestamo Coppel,622.0,Q1,Ago,Gasto
+Tarejta coppel,500.0,Q1,Ago,Gasto
+renta,3000.0,Q1,Ago,Gasto
+TOTAL GASTO,9522.0,Q1,Ago,Gasto
+AHORRO,1396.24,Q1,Ago,Gasto
+"Ahorrado banca, viaticos",2121.0,Q2,Ago,Ingreso
+Semanas,4000.0,Q2,Ago,Gasto
+Prestamo madre,2400.0,Q2,Ago,Gasto
+Gas auto,400.0,Q2,Ago,Gasto
+Guardería Dara,2200.0,Q2,Ago,Gasto
+Gas casa,500.0,Q2,Ago,Gasto
+Abono coppel,965.0,Q2,Ago,Gasto
+Churros,200.0,Q2,Ago,Gasto
+Gaby prestado,300.0,Q2,Ago,Gasto
+Luz,80.0,Q2,Ago,Gasto
+Internet,450.0,Q2,Ago,Gasto
+TOTAL GASTO,11495.0,Q2,Ago,Gasto
+AHORRO,2126.0,Q2,Ago,Gasto
+ahorro,57.0,Q1,Sep,Ingreso
+Semanas,2000.0,Q1,Sep,Gasto
+Gas auto,350.0,Q1,Sep,Gasto
+Guardería Dara,0.0,Q1,Sep,Gasto
+Gas casa,600.0,Q1,Sep,Gasto
+Abono coppel,0.0,Q1,Sep,Gasto
+Prestamo Coppel,661.0,Q1,Sep,Gasto
+Tarjeta coppel,301.0,Q1,Sep,Gasto
+Estudios Gris,2000.0,Q1,Sep,Gasto
+Renta,1000.0,Q1,Sep,Gasto
+Despensa,1300.0,Q1,Sep,Gasto
+Deuda Gaby,1000.0,Q1,Sep,Gasto
+TOTAL GASTO,9212.0,Q1,Sep,Gasto
+AHORRO,2630.0,Q1,Sep,Gasto
+ahorro,535.0,Q2,Sep,Ingreso
+Semanas,4000.0,Q2,Sep,Gasto
+Gas auto,600.0,Q2,Sep,Gasto
+Guardería Dara,1200.0,Q2,Sep,Gasto
+Internet,450.0,Q2,Sep,Gasto
+Abono coppel,871.0,Q2,Sep,Gasto
+TOTAL GASTO,7121.0,Q2,Sep,Gasto
+AHORRO,5270.67,Q2,Sep,Gasto
+ahorro,174.64,Q1,Oct,Ingreso
+Semanas,3200.0,Q1,Oct,Gasto
+Gas auto,600.0,Q1,Oct,Gasto
+Guardería Dara,0.0,Q1,Oct,Gasto
+Tarjeta coppel,1000.0,Q1,Oct,Gasto
+Abono coppel,700.0,Q1,Oct,Gasto
+Renta,2000.0,Q1,Oct,Gasto
+TOTAL GASTO,7500.0,Q1,Oct,Gasto
+AHORRO,4457.64,Q1,Oct,Gasto
+Aporte gris,1300.0,Q2,Oct,Ingreso
+Semanas,4000.0,Q2,Oct,Gasto
+Gas auto,1000.0,Q2,Oct,Gasto
+Guardería Dara,2200.0,Q2,Oct,Gasto
+Salida Adán,1000.0,Q2,Oct,Gasto
+Salida Madre,1000.0,Q2,Oct,Gasto
+TOTAL GASTO,9200.0,Q2,Oct,Gasto
+AHORRO,3800.0,Q2,Oct,Gasto
+Prima vacacional,3769.11,Q1,Nov,Ingreso
+Ahorro restante,4658.89,Q1,Nov,Ingreso
+tot,20128.0,Q1,Nov,Ingreso
+Semanas,2000.0,Q1,Nov,Gasto
+Gas auto,800.0,Q1,Nov,Gasto
+TDC Coppel,3121.27,Q1,Nov,Gasto
+Despensa,1500.0,Q1,Nov,Gasto
+TOTAL GASTO,7421.27,Q1,Nov,Gasto
+AHORRO,12706.73,Q1,Nov,Gasto
